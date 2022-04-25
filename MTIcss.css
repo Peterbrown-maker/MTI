@@ -1,0 +1,34 @@
+input{
+	text-align:center;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:10px;
+	padding-top:10px;
+	
+}
+body {
+    background-image: url("./deer-3275594.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+}
+button{
+	width:80px;
+	height:40px;
+	background-color:rgba(0,0,0,0.5);
+	border:none;
+	color:bisque;
+}
+button:hover{
+	width:150px;
+	height:60px;
+	color:green;
+}
+button:active{
+    background-color:purple;
+}
